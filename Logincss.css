@@ -29,15 +29,6 @@ img.logo
   float: left;
 }
 
-.notButton
-{
-  background-color: #414142;
-  margin-left: 5%;
-  margin-top: 20px;
-  padding: 22px 32px;
-
-}
-
 .buttonHolder
 {
   background-color: #414142;
@@ -56,7 +47,7 @@ img.logo
   color: #ED2024;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  border-color: #414142;
+  border-color: #B1B1B1;
   margin-left: 5%;
   padding: 20px 26px;
   transition-duration: 0.4s;
@@ -128,35 +119,42 @@ p2
 
 p3
 {
-  float: right;
-  margin-right: 5%;
+    font-family:  'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+h2
+{
+  margin-left: 10px;
+}
+
+.submit
+{
+  font-size: 24px;
+}
+
+
+.wrapper
+{
+  font-size: 24px;
+  padding-bottom: 50px;
+}
+
+.plsEnter
+{
+  font-size: 15px;
+  color: red;
+}
+
+.form
+{
   font-family:  'Raleway', Helvetica, Arial, sans-serif;
   font-size: 24px;
-  color: #ED2024;
+  margin-left: 10px;
 }
 
-.offer
+footer
 {
-  text-align: center;
-}
-
-h1
-{
-    font-family:  'Goudy Bookletter 1911', Georgia, Times, serif;
-    color: #ED2024;
-}
-
-
-.slideshow
-{
-    margin-top: 5%;
-    padding-bottom: 5%;
-}
-
-.mySlides
-{
-  margin: auto;
-  width: 50%;
-
-
+  margin-top: 300px;
 }

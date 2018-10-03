@@ -1,7 +1,7 @@
 .container
 {
   /*background-image: url("ravenna.png");*/
-  background-color: #B1B1B1
+  background-color: #B1B1B1;
 }
 
 
@@ -29,15 +29,6 @@ img.logo
   float: left;
 }
 
-.notButton
-{
-  background-color: #414142;
-  margin-left: 5%;
-  margin-top: 20px;
-  padding: 22px 32px;
-
-}
-
 .buttonHolder
 {
   background-color: #414142;
@@ -56,14 +47,14 @@ img.logo
   color: #ED2024;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  border-color: #414142;
+  border-color: #F4F4F4;
   margin-left: 5%;
   padding: 20px 26px;
   transition-duration: 0.4s;
   font-family:  'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: 14px
+  font-size: 14px;
 
 }
 
@@ -80,7 +71,7 @@ img.logo
   font-family:  'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: 14px
+  font-size: 14px;
 
 }
 
@@ -97,7 +88,7 @@ img.logo
   font-family:  'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: 14px
+  font-size: 14px;
 
 }
 
@@ -135,28 +126,67 @@ p3
   color: #ED2024;
 }
 
-.offer
+p4
 {
-  text-align: center;
+  font-family:  'Raleway', Helvetica, Arial, sans-serif;
+  font-size: 12px;
 }
 
-h1
+p5
 {
-    font-family:  'Goudy Bookletter 1911', Georgia, Times, serif;
-    color: #ED2024;
+  font-size: 14px;
+
 }
 
-
-.slideshow
+h2
 {
-    margin-top: 5%;
-    padding-bottom: 5%;
+  font-family:  'Raleway', Helvetica, Arial, sans-serif;
+  margin-left: 10%;
 }
 
-.mySlides
+h3
 {
-  margin: auto;
-  width: 50%;
+  font-family:  'Raleway', Helvetica, Arial, sans-serif;
+  margin-left: 15%;
+}
 
+.OrderForm
+{
+  color: #ED2024;
+  background-color: #414142;
+  border-radius: 8px;
+   margin-right: 40%;
+   margin-left: 350px;
+   margin-bottom: 350px;
+   margin-top: 85px;
+   padding-bottom: 15px;
+   padding: 15px;
+}
 
+.select
+{
+  padding: 24px 20px;
+  margin-left: 15%;
+  box-sizing: border-box;
+}
+
+.select select
+{
+  padding: 14px;
+}
+
+.extra
+{
+  margin-left: 15%;
+}
+
+.extra checkbox
+{
+  font-size: 16px;
+}
+
+.submit
+{
+  margin-left: 15%;
+  padding:5px;
 }

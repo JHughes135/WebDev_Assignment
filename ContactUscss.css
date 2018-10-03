@@ -29,15 +29,6 @@ img.logo
   float: left;
 }
 
-.notButton
-{
-  background-color: #414142;
-  margin-left: 5%;
-  margin-top: 20px;
-  padding: 22px 32px;
-
-}
-
 .buttonHolder
 {
   background-color: #414142;
@@ -56,14 +47,14 @@ img.logo
   color: #ED2024;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  border-color: #414142;
+  border-color: #B1B1B1;
   margin-left: 5%;
   padding: 20px 26px;
   transition-duration: 0.4s;
   font-family:  'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: 14px
+  font-size: 14px;
 
 }
 
@@ -80,7 +71,7 @@ img.logo
   font-family:  'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: 14px
+  font-size: 14px;
 
 }
 
@@ -97,7 +88,7 @@ img.logo
   font-family:  'Raleway', Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: bold;
-  font-size: 14px
+  font-size: 14px;
 
 }
 
@@ -135,28 +126,38 @@ p3
   color: #ED2024;
 }
 
-.offer
+p4
 {
-  text-align: center;
+  font-family:  'Raleway', Helvetica, Arial, sans-serif;
+  margin-left: 5%;
+  font-size: 16px;
+
 }
 
-h1
+h2
 {
-    font-family:  'Goudy Bookletter 1911', Georgia, Times, serif;
-    color: #ED2024;
+    font-family:  'Raleway', Helvetica, Arial, sans-serif;
+    margin-left: 5%;
+    font-size: 18px;
 }
 
-
-.slideshow
+h3
 {
-    margin-top: 5%;
-    padding-bottom: 5%;
+  font-family:  'Raleway', Helvetica, Arial, sans-serif;
+  margin-left: 5%;
+  font-size: 20px;
 }
 
-.mySlides
+.ContactHead
 {
-  margin: auto;
-  width: 50%;
+  font-family:  'Raleway', Helvetica, Arial, sans-serif;
+  margin-left: 5%;
+  color: #ED2024;
+  text-decoration: underline;
+}
 
-
+footer
+{
+  margin-top: 500px;
+  font-family:  'Raleway', Helvetica, Arial, sans-serif;
 }
