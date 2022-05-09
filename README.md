@@ -1,6 +1,9 @@
 Web Development assignment 2nd year
 
 # Website for pizza delivery restaurant
+
+**Functionality**
+
 -Browse menu 
 
 -log in/out
