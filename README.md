@@ -10,8 +10,8 @@ Web Development assignment 2nd year
 
 -Order and Checkout
 
--Orders stored in DB
+-Orders are stored in DB
 
--Menu items stored in DB with prices etc
+-Menu items are stored in DB with prices etc
 
 
