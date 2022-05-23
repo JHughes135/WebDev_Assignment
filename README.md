@@ -2,16 +2,16 @@ Web Development assignment 2nd year
 
 # Website for pizza delivery restaurant
 
-**Functionality**
+**A website I created for a college assignment that allowas uses to:**
 
--Browse menu 
+-Browse a menu 
 
--log in/out
+-Sign up, log in/out
 
--checkout
+-Order and Checkout
 
--orders stored in db
+-Orders stored in DB
 
--menu items stored in db with prices etc
+-Menu items stored in DB with prices etc
 
 
