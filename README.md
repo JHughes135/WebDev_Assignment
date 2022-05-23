@@ -2,7 +2,7 @@ Web Development assignment 2nd year
 
 # Website for pizza delivery restaurant
 
-**A website I created for a college assignment that allows uses to:**
+**A website I created for a college assignment using PHP, HTML and CSS that allows uses to:**
 
 -Browse a menu 
 
